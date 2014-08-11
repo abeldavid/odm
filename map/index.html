@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Easy example | CartoDB.js</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
+	<link rel="stylesheet" href="css/cartodb.css" />
+    <style>
+      html, body, #map {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+
+    <script>
+      function main() {
+        cartodb.createVis('map', 'http://bdg1.cartodb.com/api/v2/viz/a1fea594-1cb4-11e4-b595-0e230854a1cb/viz.json', {
+            shareable: true,
+            title: false,
+            description: false,
+            search: false,
+            tiles_loader: true,
+			layer_selector:true,
+			fullscreen:true,
+            center_lat: 41.7,
+            center_lon: -81.417446,
+            zoom: 13
+        })
+        .done(function(vis, layers) {
+          var slider = vis.getOverlay('time_slider')
+          slider.formatter(function(d) {
+            return "month:" + d.getcartodb_id();
+          })
+        })
+        .error(function(err) {
+          console.log(err);
+        });
+      }
+
+      window.onload = main;
+    </script>
+  </body>
+</html>
