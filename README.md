@@ -3,4 +3,4 @@ coyote
 
 Hosting for Cleveland Metroparks coyote data
 
-http://cleveland-metroparks.github.io/coyotes/
+http://cleveland-metroparks.github.io/coyote/
