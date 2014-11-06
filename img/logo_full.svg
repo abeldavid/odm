@@ -25,7 +25,7 @@
          offset="0"
          id="stop56547" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0.49803922;"
          offset="1"
          id="stop56549" />
     </linearGradient>
@@ -81,7 +81,7 @@
      id="layer1"
      transform="translate(20.714296,32.459251)">
     <rect
-       style="fill:url(#radialGradient56551);fill-opacity:1;stroke:none"
+       style="fill:url(#radialGradient56551);fill-opacity:1.0;stroke:none"
        id="rect55775"
        width="436.42859"
        height="285.35715"
