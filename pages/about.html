@@ -1,5 +1,41 @@
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=windows-1252"></head><body><p><img alt="" src="about_files/odm_image.png"></p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CM | Coyote</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <link href="../css/map_styles.css" rel="stylesheet">
+	<link href="../css/cssmenu.css" rel="stylesheet">
+    <style>
+      html, body, #map {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+    </style>
+
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+  </head>
+
+	<body>
+	<div id='cssmenu'>
+		<div id="logo"><a href="#"><img src="img/logo.svg"></a></div>
+		<ul>
+		   <li><a href='pages/about.html'><span>About</span></a></li>
+		   <li><a href='https://github.com/OpenDroneMap/OpenDroneMap' target="_blank"><span>Code on GitHub</span></a></li>
+		   <li class='active has-sub'><a href='#'><span>Example Data</span></a>
+			  <ul>
+				 <li><a href='pages/nc_coyote.html'><span>Benchmark</span></a></li>
+				 <li><a href='pages/nc_coyote.html'><span>Pacifica</span></a></li>
+				 <li><a href='pages/nc_coyote.html'><span>Langley</span></a></li>
+				 <li><a href='pages/nc_coyote.html'><span>Corridor</span></a></li>
+			  </ul>
+		   </li>
+		   <li><a href='#'><span>Contact</span></a></li>
+		</ul>
+	</div>
+
+<p><img alt="" src="about_files/odm_image.png"></p>
 <h1 id="what-is-it">What is it?</h1>
 <p>OpenDroneMap is a toolchain for processing raw civilian UAS imagery to other useful products? What kind of projects?</p>
 <ol>
@@ -86,4 +122,7 @@ http://www.dpreview.com/products/sony/compacts/sony_dschx5/specifications</p>
 <p>So, we'll add the following line to our ccd_defs.pl:</p>
 <pre><code> "SONY DSC-HX5V"                            =&gt; 6.104,  # 1/2.4"
 </code></pre>
-<p>And so others can use it, we'll do a pull request to add it to our array for everyone else.</p></body></html>
+<p>And so others can use it, we'll do a pull request to add it to our array for everyone else.</p>
+
+</body>
+</html>
