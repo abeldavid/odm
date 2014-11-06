@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="260.48999"
-   height="110.82501"
+   width="323.57144"
+   height="166.78572"
    id="svg53106"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 14">
+   sodipodi:docname="logo_full.svg">
   <defs
      id="defs53108" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="192.65569"
-     inkscape:cy="73.912158"
+     inkscape:cx="160.98212"
+     inkscape:cy="101.89251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-64.04071,-59.806818)">
+     transform="translate(-32.499989,-31.826464)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.49803922;stroke:none"
+       id="rect55775"
+       width="323.57144"
+       height="166.78572"
+       x="32.499989"
+       y="31.826464" />
     <g
        transform="translate(-253.28929,-550.11728)"
        id="g18231">
@@ -1701,7 +1708,7 @@
                            id="path18915" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="488.539,681.49 488.072,684.451 487.455,687.387 488.079,684.45 "
+                           points="488.079,684.45 488.539,681.49 488.072,684.451 487.455,687.387 "
                            id="polygon18917" />
                         <path
                            style="fill:#dddcdb"
@@ -1834,7 +1841,7 @@
                            id="polygon18969" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="488.539,681.49 488.072,684.451 487.455,687.387 488.079,684.45 "
+                           points="488.079,684.45 488.539,681.49 488.072,684.451 487.455,687.387 "
                            id="polygon18971" />
                         <path
                            style="fill:#bfbdbc"
@@ -2921,7 +2928,7 @@
                            id="path19418" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="452.223,691.517 452.292,690.813 452.275,690.115 452.213,690.651 "
+                           points="452.213,690.651 452.223,691.517 452.292,690.813 452.275,690.115 "
                            id="polygon19420" />
                         <path
                            style="fill:#dddcdb"
@@ -3189,7 +3196,7 @@
                            id="path19528" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="452.223,691.517 452.292,690.813 452.275,690.115 452.213,690.651 "
+                           points="452.213,690.651 452.223,691.517 452.292,690.813 452.275,690.115 "
                            id="polygon19530" />
                         <path
                            style="fill:#bfbdbc"
@@ -3311,7 +3318,7 @@
                            id="path19581" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="458.151,709.558 457.847,709.447 457.532,709.422 457.764,709.517 "
+                           points="457.764,709.517 458.151,709.558 457.847,709.447 457.532,709.422 "
                            id="polygon19583" />
                         <path
                            style="fill:#dddcdb"
@@ -3320,7 +3327,7 @@
                            id="path19585" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="457.847,709.447 457.61,709.36 457.261,709.313 457.532,709.422 "
+                           points="457.532,709.422 457.847,709.447 457.61,709.36 457.261,709.313 "
                            id="polygon19587" />
                         <polygon
                            style="fill:#dddcdb"
@@ -3435,7 +3442,7 @@
                            id="path19633" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="457.412,709.374 457.532,709.422 457.847,709.447 457.67,709.383 457.578,709.371 "
+                           points="457.67,709.383 457.578,709.371 457.412,709.374 457.532,709.422 457.847,709.447 "
                            id="polygon19635" />
                         <path
                            style="fill:#bfbdbc"
@@ -3577,7 +3584,7 @@
                            id="path19691" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="458.151,709.558 457.847,709.447 457.532,709.422 457.764,709.517 "
+                           points="457.764,709.517 458.151,709.558 457.847,709.447 457.532,709.422 "
                            id="polygon19693" />
                         <path
                            style="fill:#bfbdbc"
@@ -3699,7 +3706,7 @@
                            id="path19744" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="464.508,695.721 463.974,695.592 463.434,695.549 463.84,695.657 "
+                           points="463.84,695.657 464.508,695.721 463.974,695.592 463.434,695.549 "
                            id="polygon19746" />
                         <path
                            style="fill:#dddcdb"
@@ -3708,7 +3715,7 @@
                            id="path19748" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="463.974,695.592 463.56,695.491 462.956,695.425 463.434,695.549 "
+                           points="463.434,695.549 463.974,695.592 463.56,695.491 462.956,695.425 "
                            id="polygon19750" />
                         <polygon
                            style="fill:#dddcdb"
@@ -3966,7 +3973,7 @@
                            id="path19854" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="464.508,695.721 463.974,695.592 463.434,695.549 463.84,695.657 "
+                           points="463.84,695.657 464.508,695.721 463.974,695.592 463.434,695.549 "
                            id="polygon19856" />
                         <path
                            style="fill:#bfbdbc"
@@ -4088,7 +4095,7 @@
                            id="path19907" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="467.816,682.545 467.164,682.397 466.505,682.337 467.001,682.459 "
+                           points="467.001,682.459 467.816,682.545 467.164,682.397 466.505,682.337 "
                            id="polygon19909" />
                         <path
                            style="fill:#dddcdb"
@@ -4356,7 +4363,7 @@
                            id="path20017" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="467.816,682.545 467.164,682.397 466.505,682.337 467.001,682.459 "
+                           points="467.001,682.459 467.816,682.545 467.164,682.397 466.505,682.337 "
                            id="polygon20019" />
                         <path
                            style="fill:#bfbdbc"
@@ -4478,7 +4485,7 @@
                            id="path20070" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="468.83,669.942 468.13,669.81 467.425,669.764 467.958,669.874 "
+                           points="467.958,669.874 468.83,669.942 468.13,669.81 467.425,669.764 "
                            id="polygon20072" />
                         <path
                            style="fill:#dddcdb"
@@ -4748,7 +4755,7 @@
                            id="path20180" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="468.83,669.942 468.13,669.81 467.425,669.764 467.958,669.874 "
+                           points="467.958,669.874 468.83,669.942 468.13,669.81 467.425,669.764 "
                            id="polygon20182" />
                         <path
                            style="fill:#bfbdbc"
@@ -4870,7 +4877,7 @@
                            id="path20233" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="469.342,657.87 468.633,657.729 467.918,657.673 468.458,657.791 "
+                           points="468.458,657.791 469.342,657.87 468.633,657.729 467.918,657.673 "
                            id="polygon20235" />
                         <path
                            style="fill:#dddcdb"
@@ -5140,7 +5147,7 @@
                            id="path20343" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="469.342,657.87 468.633,657.729 467.918,657.673 468.458,657.791 "
+                           points="468.458,657.791 469.342,657.87 468.633,657.729 467.918,657.673 "
                            id="polygon20345" />
                         <path
                            style="fill:#bfbdbc"
@@ -5262,7 +5269,7 @@
                            id="path20396" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="468.126,646.948 467.457,646.812 466.783,646.762 467.292,646.875 "
+                           points="467.292,646.875 468.126,646.948 467.457,646.812 466.783,646.762 "
                            id="polygon20398" />
                         <path
                            style="fill:#dddcdb"
@@ -5530,7 +5537,7 @@
                            id="path20506" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="468.126,646.948 467.457,646.812 466.783,646.762 467.292,646.875 "
+                           points="467.292,646.875 468.126,646.948 467.457,646.812 466.783,646.762 "
                            id="polygon20508" />
                         <path
                            style="fill:#bfbdbc"
@@ -5652,7 +5659,7 @@
                            id="path20559" />
                         <polygon
                            style="fill:#dddcdb"
-                           points="465.637,636.753 465.064,636.625 464.486,636.584 464.922,636.69 "
+                           points="464.922,636.69 465.637,636.753 465.064,636.625 464.486,636.584 "
                            id="polygon20561" />
                         <path
                            style="fill:#dddcdb"
@@ -5920,7 +5927,7 @@
                            id="path20669" />
                         <polygon
                            style="fill:#bfbdbc"
-                           points="465.637,636.753 465.064,636.625 464.486,636.584 464.922,636.69 "
+                           points="464.922,636.69 465.637,636.753 465.064,636.625 464.486,636.584 "
                            id="polygon20671" />
                         <path
                            style="fill:#bfbdbc"
