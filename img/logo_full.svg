@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -19,14 +20,21 @@
   <defs
      id="defs53108">
     <linearGradient
-       inkscape:collect="always"
+       id="linearGradient64330"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop64332" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient64320">
       <stop
-         style="stop-color:#696969;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop64322" />
       <stop
-         style="stop-color:#696969;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop64324" />
     </linearGradient>
@@ -51,6 +59,17 @@
        fy="113.35867"
        r="85.352814"
        gradientTransform="matrix(1,0,0,1.0946802,0,-10.732823)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient64320"
+       id="radialGradient64346"
+       cx="356.7002"
+       cy="211.68169"
+       fx="356.7002"
+       fy="211.68169"
+       r="247.99246"
+       gradientTransform="matrix(1,0,0,0.42464356,0,121.79243)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -92,6 +111,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-108.70775,-106.1517)">
+    <rect
+       style="fill:url(#radialGradient64346);stroke:none;fill-opacity:1.0"
+       id="rect64328"
+       width="495.98492"
+       height="210.61681"
+       x="108.70775"
+       y="106.37329" />
     <path
        sodipodi:type="arc"
        style="fill:url(#radialGradient64326);stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
