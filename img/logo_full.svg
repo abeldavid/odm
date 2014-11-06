@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="323.57144"
@@ -16,7 +17,30 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="logo_full.svg">
   <defs
-     id="defs53108" />
+     id="defs53108">
+    <linearGradient
+       id="linearGradient56545">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop56547" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop56549" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient56545"
+       id="radialGradient56551"
+       cx="194.28571"
+       cy="115.21932"
+       fx="194.28571"
+       fy="115.21932"
+       r="161.78572"
+       gradientTransform="matrix(1,0,0,0.51545254,0,55.829231)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -57,7 +81,7 @@
      id="layer1"
      transform="translate(-32.499989,-31.826464)">
     <rect
-       style="fill:#ffffff;fill-opacity:0.49803922;stroke:none"
+       style="fill:url(#radialGradient56551);fill-opacity:1.0;stroke:none"
        id="rect55775"
        width="323.57144"
        height="166.78572"
