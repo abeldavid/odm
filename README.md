@@ -1,6 +1,4 @@
-coyote
-======
+OpenDroneMap
+============
 
-Hosting for Cleveland Metroparks coyote data
-
-http://cleveland-metroparks.github.io/coyote/
+Hosting for OpenDroneMap
